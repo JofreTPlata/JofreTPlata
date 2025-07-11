@@ -1,16 +1,15 @@
-## Hi there 👋
+## 👋 ¡Hola! Bienvenido a mi perfil de GitHub
 
-<!--
-**JofreTPlata/JofreTPlata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Jofre Ticona Plata**  
+💻 **Licenciatura en Ingeniería de Sistemas**  
+📍 **El éxito es la suma de pequeños esfuerzos repetidos cada día**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías y herramientas que uso
+
+- Lenguajes: `Java`, `Python`, `JavaScript`
+- Bases de datos: `MySQL`, `SQLite`
+- IDEs: `NetBeans`, `Visual Studio Code`
+- Otros: Git, GitHub, UML
+
+> _“El conocimiento no es un producto sino un proceso constante.”_ ✨
